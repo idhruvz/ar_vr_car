@@ -17,4 +17,3 @@ https://github.com/soumya-maheshwari/Vuforia_App
 - Integrated and tested the 3D vehicle model
 - Configured image-target tracking
 - Customized the project for the academic demonstration
-- Added [your future modifications here]
